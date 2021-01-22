@@ -1,4 +1,7 @@
 ﻿var charData = {
+    "Richelieu (Evergreen Prophecy)": "lisailiu_3",
+    "Jean Bart (First Snow Upon the Cutlass's Edge)": "rangbaer_4",
+    "Peter Strasser (Chronos's Kalendae)": "shitelasai_2",
     "Unicorn (Angelic Night)": "dujiaoshou_6",
     "Z46 (Star-Lit Chocolate)": "z46_4",
     "Essex (Craft Fairytail)": "aisaikesi_4",
@@ -11,8 +14,8 @@
     "Hermione (Pure white angel)": "hemin_3",
     "Ping Hai (Delicious Crimson)": "pinghai_6",
     "St. Louis (Luxurious Wheels)": "shengluyisi_4",
-    "Jean Bart": "rangbaer_3",
-    "Richelieu": "lisailiu_2",
+    "Jean Bart (Private Après Midi)": "rangbaer_3",
+    "Richelieu (Fleuron of the Waves)": "lisailiu_2",
     "Le Malin": "edu_3",
     "Émile Bertin": "aimierbeierding_3",
     "Cooper (Blazing Tennis Battle)": "kubo_2",
