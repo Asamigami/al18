@@ -1,4 +1,8 @@
 ﻿var charData = {
+    "Bremerton (Kung Fu Cruiser)": "bulaimodun_4",
+    "Cheshire (Cait Sith Crooner)": "chaijun_3",
+    "Glorious (Pungent Plum)": "guangrong_3",
+    "La Galissonnière (Tipsy Spring Spectacle)": "jialisuoniye_4",
     "Richelieu (Evergreen Prophecy)": "lisailiu_3",
     "Jean Bart (First Snow Upon the Cutlass's Edge)": "rangbaer_4",
     "Peter Strasser (Chronos's Kalendae)": "shitelasai_2",
