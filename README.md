@@ -19,48 +19,4 @@ You should have received a copy of the GNU Affero General Public License along w
 
 Copied from the previous L2D viewer source at https://github.com/alg-wiki/AzurLaneL2DViewer due to inactivity.
 
-
-# How to Contribute
-
-Obviously this only needs to be updated when new L2D skins are added to the game.
-
-### L2D Files
-
-The packed L2D files on Android can be found in the following two locations:
-
-- Android/obb/com.YoStarEN.AzurLane/main.51006.com.YoStarEN.AzurLane.obb (you can simply extract this like a regular zip file and look for the live2d directory)
-
-- Android/data/com.YoStarEN.AzurLane/files/AssetBundles/live2d
-
-In order to extract L2D content from these files you'll need to use this tool https://github.com/Perfare/UnityLive2DExtractor
-
-Grab the latest release zip, extract it, and then drag and drop the whole live2d directory onto the .exe (or find the newly added L2D inside the directory and only drag that if you don't want to extract everything)
-
-This will create a Live2DOutput directory with all the extracted L2D contents needed.
-
-These are placed directly in the assets/ directory in this repo
-
-### Backgrounds
-
-Next we also need any new backgrounds which on Android can be found at:
-
-- Android/obb/com.YoStarEN.AzurLane/main.51006.com.YoStarEN.AzurLane.obb (you can simply extract this like a regular zip file and look for the bg directory)
-
-- Android/data/com.YoStarEN.AzurLane/files/AssetBundles/bg
-
-In order to extract these we need to use this tool https://github.com/Perfare/AssetStudio
-
-Grab the latest release zip, extract it, run the .exe and go to file > load folder and select the bg directories
-
-It'll load all the backgrounds, L2D skins won't use most of these but I'm too lazy to sort them so I just extract most of them except the obvious ones that won't fit with different dimensions etc.
-
-Go to Filter Type > Texture2D then select all the Texture2D assets, right click on them and select Export selected assets and choose a directory to extract them to, it'll create a Texture2D directory there with everything you selected saved as .png
-
-These are placed directly in the assets/bg/ directory in this repo
-
-### Including New L2D
-
-Any new background files need to be added to js/backgroundData.js - the format should be obvious and simple to follow
-
-Any new L2D skins need to be added to js/charData.js - the format should be obvious again, though note these L2D folders use the Chinese romanised names for the ships which is annoying to get used to, if you look at https://gitgud.io/alg-wiki/wikia/-/blob/master/json/shiplist.json which (should) have a list of every ship and the corresponding Chinese name in the icon filename
-
+For details on how you can help please see the wiki at https://gitgud.io/alg-wiki/azurlanel2dviewer/-/wikis/Contribute
