@@ -1,3 +1,4 @@
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=l2d.algwiki.moe&up_color=green&up_message=online&url=https%3A%2F%2Fl2d.algwiki.moe)
 # AzurLaneL2DViewer
 
 Azur Lane © is owned by Shanghai Manjuu, Xiamen Yongshi, Shanghai Yostar | All logos and trademarks are property of their respective owners.
