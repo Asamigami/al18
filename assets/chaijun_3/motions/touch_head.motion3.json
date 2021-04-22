@@ -4,9 +4,10 @@
     "Duration": 9.6,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 460,
-    "TotalSegmentCount": 3327,
-    "TotalPointCount": 3677,
+    "AreBeziersRestricted": true,
+    "CurveCount": 471,
+    "TotalSegmentCount": 3347,
+    "TotalPointCount": 3697,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -8651,6 +8652,44 @@
     },
     {
       "Target": "Parameter",
+      "Id": "ParamCheek",
+      "Segments": [
+        0,
+        0.5,
+        0,
+        3.3,
+        1,
+        2,
+        3.433,
+        1,
+        2,
+        3.567,
+        1,
+        2,
+        3.767,
+        1,
+        2,
+        3.967,
+        1,
+        2,
+        4.8,
+        1,
+        2,
+        5.333,
+        1,
+        2,
+        6,
+        1,
+        2,
+        6.433,
+        1,
+        0,
+        9.6,
+        0.5
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "Param42",
       "Segments": [
         0,
@@ -10785,6 +10824,17 @@
     },
     {
       "Target": "PartOpacity",
+      "Id": "Main",
+      "Segments": [
+        0,
+        1,
+        2,
+        9.6,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
       "Id": "Part215",
       "Segments": [
         0,
@@ -11169,19 +11219,8 @@
       ]
     },
     {
-      "Target": "2153942630",
-      "Id": "2153942630",
-      "Segments": [
-        0,
-        1,
-        2,
-        9.6,
-        1
-      ]
-    },
-    {
-      "Target": "991393817",
-      "Id": "991393817",
+      "Target": "PartOpacity",
+      "Id": "Part90",
       "Segments": [
         0,
         1,
@@ -11193,6 +11232,17 @@
     {
       "Target": "PartOpacity",
       "Id": "Part92",
+      "Segments": [
+        0,
+        1,
+        2,
+        9.6,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part17",
       "Segments": [
         0,
         1,
@@ -11831,6 +11881,17 @@
     {
       "Target": "PartOpacity",
       "Id": "Part97",
+      "Segments": [
+        0,
+        1,
+        2,
+        9.6,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part178",
       "Segments": [
         0,
         1,
@@ -12666,6 +12727,28 @@
     },
     {
       "Target": "PartOpacity",
+      "Id": "Part50",
+      "Segments": [
+        0,
+        1,
+        2,
+        9.6,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part18",
+      "Segments": [
+        0,
+        1,
+        2,
+        9.6,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
       "Id": "Part162",
       "Segments": [
         0,
@@ -12706,6 +12789,39 @@
         0,
         9.6,
         1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "baiqidonghua",
+      "Segments": [
+        0,
+        0,
+        0,
+        9.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param204",
+      "Segments": [
+        0,
+        0,
+        0,
+        9.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param205",
+      "Segments": [
+        0,
+        0,
+        0,
+        9.6,
+        0
       ]
     },
     {
@@ -13601,6 +13717,39 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Param200",
+      "Segments": [
+        0,
+        0,
+        0,
+        9.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param198",
+      "Segments": [
+        0,
+        0,
+        0,
+        9.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param164",
+      "Segments": [
+        0,
+        0,
+        0,
+        9.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "Param40",
       "Segments": [
         0,
@@ -13766,6 +13915,17 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Param144",
+      "Segments": [
+        0,
+        0,
+        0,
+        9.6,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "ParamMouthForm",
       "Segments": [
         0,
@@ -13806,17 +13966,6 @@
         0,
         9.6,
         0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamCheek",
-      "Segments": [
-        0,
-        1,
-        0,
-        9.6,
-        1
       ]
     },
     {
@@ -13865,6 +14014,17 @@
     },
     {
       "Target": "Parameter",
+      "Id": "xingxingdaxiao",
+      "Segments": [
+        0,
+        -1,
+        0,
+        9.6,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "xing4jiaodu",
       "Segments": [
         0,
@@ -13899,17 +14059,6 @@
     {
       "Target": "Parameter",
       "Id": "ax1",
-      "Segments": [
-        0,
-        0,
-        0,
-        9.6,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param41",
       "Segments": [
         0,
         0,

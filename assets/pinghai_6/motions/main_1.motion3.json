@@ -5,9 +5,9 @@
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
-    "CurveCount": 131,
-    "TotalSegmentCount": 2103,
-    "TotalPointCount": 2869,
+    "CurveCount": 132,
+    "TotalSegmentCount": 2112,
+    "TotalPointCount": 2878,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -1113,6 +1113,29 @@
     {
       "Target": "Parameter",
       "Id": "ParamMouthOpenY",
+      "Segments": [
+        0,
+        0,
+        2,
+        3.033,
+        0,
+        0,
+        3.667,
+        1,
+        2,
+        7.1,
+        1,
+        0,
+        7.3,
+        0,
+        2,
+        10.333,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamNanaa",
       "Segments": [
         0,
         0,
@@ -8745,6 +8768,40 @@
       ]
     },
     {
+      "Target": "PartOpacity",
+      "Id": "PartMouthKey",
+      "Segments": [
+        0,
+        0,
+        2,
+        0.5,
+        1,
+        2,
+        9.83,
+        0,
+        2,
+        10.33,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartMouth",
+      "Segments": [
+        0,
+        1,
+        2,
+        0.5,
+        0,
+        2,
+        9.83,
+        1,
+        2,
+        10.33,
+        1
+      ]
+    },
+    {
       "Target": "Parameter",
       "Id": "ParamArmForeLAngle",
       "Segments": [
@@ -8775,28 +8832,6 @@
         0,
         10.333,
         0
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "PartMouthKey",
-      "Segments": [
-        0,
-        0,
-        0,
-        10.333,
-        0
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "PartMouth",
-      "Segments": [
-        0,
-        1,
-        0,
-        10.333,
-        1
       ]
     },
     {

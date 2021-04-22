@@ -1,4 +1,6 @@
 ﻿var charData = {
+    "Vittorio Veneto (The Flower of La Spezia)": "weineituo_2",
+    "Pola (Seaside Coincidence)": "bola_2",
     "Bremerton (Kung Fu Cruiser)": "bulaimodun_4",
     "Cheshire (Cait Sith Crooner)": "chaijun_3",
     "Glorious (Pungent Plum)": "guangrong_3",

@@ -4,9 +4,10 @@
     "Duration": 8.83,
     "Fps": 30.0,
     "Loop": true,
+    "AreBeziersRestricted": true,
     "CurveCount": 45,
     "TotalSegmentCount": 49,
-    "TotalPointCount": 96,
+    "TotalPointCount": 53,
     "UserDataCount": 0,
     "TotalUserDataSize": 0
   },
@@ -17,7 +18,11 @@
       "Segments": [
         0,
         0,
-        0,
+        1,
+        2.944,
+        9.962,
+        5.889,
+        19.925,
         8.833,
         29.887
       ]
