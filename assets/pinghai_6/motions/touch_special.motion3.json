@@ -6,8 +6,8 @@
     "Loop": true,
     "AreBeziersRestricted": true,
     "CurveCount": 102,
-    "TotalSegmentCount": 1212,
-    "TotalPointCount": 1600,
+    "TotalSegmentCount": 1216,
+    "TotalPointCount": 1604,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -5095,6 +5095,40 @@
       ]
     },
     {
+      "Target": "PartOpacity",
+      "Id": "PartMouthKey",
+      "Segments": [
+        0,
+        0,
+        2,
+        0.5,
+        1,
+        2,
+        6.83,
+        0,
+        2,
+        7.33,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PartMouth",
+      "Segments": [
+        0,
+        1,
+        2,
+        0.5,
+        0,
+        2,
+        6.83,
+        1,
+        2,
+        7.33,
+        1
+      ]
+    },
+    {
       "Target": "Parameter",
       "Id": "ParamHairLong1LGravity",
       "Segments": [
@@ -5114,28 +5148,6 @@
         0,
         7.333,
         0
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "PartMouthKey",
-      "Segments": [
-        0,
-        0,
-        0,
-        7.333,
-        0
-      ]
-    },
-    {
-      "Target": "PartOpacity",
-      "Id": "PartMouth",
-      "Segments": [
-        0,
-        1,
-        0,
-        7.333,
-        1
       ]
     },
     {

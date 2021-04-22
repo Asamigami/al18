@@ -4,9 +4,10 @@
     "Duration": 5.67,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 462,
-    "TotalSegmentCount": 1772,
-    "TotalPointCount": 1966,
+    "AreBeziersRestricted": true,
+    "CurveCount": 471,
+    "TotalSegmentCount": 1794,
+    "TotalPointCount": 1988,
     "UserDataCount": 2,
     "TotalUserDataSize": 0
   },
@@ -3948,9 +3949,12 @@
         0,
         0,
         0,
-        0.467,
-        1,
+        0.5,
+        0.4,
         2,
+        0.833,
+        0.4,
+        0,
         1,
         1,
         0,
@@ -4024,9 +4028,12 @@
         0,
         0,
         0,
-        0.467,
-        1,
+        0.5,
+        0.4,
         2,
+        0.833,
+        0.4,
+        0,
         1,
         1,
         0,
@@ -4047,6 +4054,58 @@
         0,
         3.167,
         1,
+        0,
+        4.433,
+        0,
+        2,
+        5.667,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLForm",
+      "Segments": [
+        0,
+        0,
+        2,
+        1.2,
+        0,
+        0,
+        1.833,
+        -1,
+        2,
+        2.533,
+        -1,
+        2,
+        3.167,
+        -1,
+        0,
+        4.433,
+        0,
+        2,
+        5.667,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRForm",
+      "Segments": [
+        0,
+        0,
+        2,
+        1.2,
+        0,
+        0,
+        1.833,
+        -1,
+        2,
+        2.533,
+        -1,
+        2,
+        3.167,
+        -1,
         0,
         4.433,
         0,
@@ -4097,22 +4156,25 @@
       "Id": "ParamCheek",
       "Segments": [
         0,
-        1,
-        2,
+        0.5,
+        0,
         1.2,
         1,
         0,
         1.833,
         0,
         0,
+        2.533,
+        1,
+        2,
         3.167,
         1,
         2,
         4.433,
         1,
-        2,
+        0,
         5.667,
-        1
+        0.5
       ]
     },
     {
@@ -4125,7 +4187,7 @@
         1.2,
         0,
         0,
-        2.4,
+        2.533,
         1,
         0,
         3.167,
@@ -5714,6 +5776,17 @@
     },
     {
       "Target": "PartOpacity",
+      "Id": "Main",
+      "Segments": [
+        0,
+        1,
+        2,
+        5.67,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
       "Id": "Part215",
       "Segments": [
         0,
@@ -6098,19 +6171,8 @@
       ]
     },
     {
-      "Target": "2153942630",
-      "Id": "2153942630",
-      "Segments": [
-        0,
-        1,
-        2,
-        5.67,
-        1
-      ]
-    },
-    {
-      "Target": "991393817",
-      "Id": "991393817",
+      "Target": "PartOpacity",
+      "Id": "Part90",
       "Segments": [
         0,
         1,
@@ -6122,6 +6184,17 @@
     {
       "Target": "PartOpacity",
       "Id": "Part92",
+      "Segments": [
+        0,
+        1,
+        2,
+        5.67,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part17",
       "Segments": [
         0,
         1,
@@ -6760,6 +6833,17 @@
     {
       "Target": "PartOpacity",
       "Id": "Part97",
+      "Segments": [
+        0,
+        1,
+        2,
+        5.67,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part178",
       "Segments": [
         0,
         1,
@@ -7595,6 +7679,28 @@
     },
     {
       "Target": "PartOpacity",
+      "Id": "Part50",
+      "Segments": [
+        0,
+        1,
+        2,
+        5.67,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part18",
+      "Segments": [
+        0,
+        1,
+        2,
+        5.67,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
       "Id": "Part162",
       "Segments": [
         0,
@@ -7635,6 +7741,17 @@
         0,
         5.67,
         1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "baiqidonghua",
+      "Segments": [
+        0,
+        0,
+        0,
+        5.67,
+        0
       ]
     },
     {
@@ -8684,6 +8801,39 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Param200",
+      "Segments": [
+        0,
+        0,
+        0,
+        5.67,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param198",
+      "Segments": [
+        0,
+        0,
+        0,
+        5.67,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param164",
+      "Segments": [
+        0,
+        0,
+        0,
+        5.67,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "Param40",
       "Segments": [
         0,
@@ -8827,6 +8977,17 @@
     },
     {
       "Target": "Parameter",
+      "Id": "Param144",
+      "Segments": [
+        0,
+        0,
+        0,
+        5.67,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "zuoyantmd",
       "Segments": [
         0,
@@ -8850,28 +9011,6 @@
     {
       "Target": "Parameter",
       "Id": "Param43",
-      "Segments": [
-        0,
-        0,
-        0,
-        5.67,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamBrowLForm",
-      "Segments": [
-        0,
-        0,
-        0,
-        5.67,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamBrowRForm",
       "Segments": [
         0,
         0,
@@ -9003,6 +9142,17 @@
     },
     {
       "Target": "Parameter",
+      "Id": "xingxingdaxiao",
+      "Segments": [
+        0,
+        -1,
+        0,
+        5.67,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "xing4jiaodu",
       "Segments": [
         0,
@@ -9037,17 +9187,6 @@
     {
       "Target": "Parameter",
       "Id": "ax1",
-      "Segments": [
-        0,
-        0,
-        0,
-        5.67,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "Param41",
       "Segments": [
         0,
         0,

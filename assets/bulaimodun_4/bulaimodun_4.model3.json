@@ -10,7 +10,7 @@
     "Motions": {
       "": [
         {
-          "File": "motions/idle.motion3.json"
+          "File": "motions/complete.motion3.json"
         },
         {
           "File": "motions/wedding.motion3.json"
@@ -60,17 +60,17 @@
   "Groups": [
     {
       "Target": "Parameter",
-      "Name": "LipSync",
+      "Name": "EyeBlink",
       "Ids": [
-        "ParamMouthOpenY"
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
       ]
     },
     {
       "Target": "Parameter",
-      "Name": "EyeBlink",
+      "Name": "LipSync",
       "Ids": [
-        "ParamEyeLOpen",
-        "ParamEyeROpen"
+        "ParamMouthOpenY"
       ]
     }
   ]

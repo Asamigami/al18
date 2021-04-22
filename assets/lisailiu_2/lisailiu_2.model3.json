@@ -45,13 +45,13 @@
           "File": "motions/effect.motion3.json"
         },
         {
-          "File": "motions/.motion3.json"
+          "File": "motions/home.motion3.json"
         },
         {
           "File": "motions/login.motion3.json"
         },
         {
-          "File": "motions/.motion3.json"
+          "File": "motions/touch_head.motion3.json"
         }
       ]
     }
