@@ -1,4 +1,6 @@
 ﻿var charData = {
+    "Allen M. Sumner (Charming Rabbit)": "ailunsamuna_2",
+    "Boise (Sheepish Sapphire!)": "boyixi_2",
     "Vittorio Veneto (The Flower of La Spezia)": "weineituo_2",
     "Pola (Seaside Coincidence)": "bola_2",
     "Bremerton (Kung Fu Cruiser)": "bulaimodun_4",
