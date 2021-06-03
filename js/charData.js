@@ -1,4 +1,5 @@
 ﻿var charData = {
+    "Weser (Urbane Onyx)": "weixi_2",
     "Allen M. Sumner (Charming Rabbit)": "ailunsamuna_2",
     "Boise (Sheepish Sapphire!)": "boyixi_2",
     "Vittorio Veneto (The Flower of La Spezia)": "weineituo_2",
