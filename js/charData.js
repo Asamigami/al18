@@ -1,4 +1,6 @@
 ﻿var charData = {
+    "North Carolina (The Heart's Desire)": "beikaluolaina_2",
+    "Reno (Reno Bunnino)": "linuo_3",
     "Weser (Urbane Onyx)": "weixi_2",
     "Allen M. Sumner (Charming Rabbit)": "ailunsamuna_2",
     "Boise (Sheepish Sapphire!)": "boyixi_2",
