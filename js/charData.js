@@ -1,4 +1,6 @@
 ﻿var charData = {
+    "Shimakaze (World's Speediest Bunny Waitress)": "daofeng_4",
+    "Le Malin (Listless Lapin)": "edu_4",
     "Abercrombie (Mischief on the Rocks)": "abeikelongbi_3",
     "North Carolina (The Heart's Desire)": "beikaluolaina_2",
     "Reno (Reno Bunnino)": "linuo_3",
