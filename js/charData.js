@@ -1,4 +1,5 @@
 ﻿var charData = {
+    "La Galissonnière (Black Cat of All Hallows' Eve)": "jialisuoniye_3",
     "Cheshire (The Cat and the White Steed)": "chaijun_4",
     "Shimakaze (World's Speediest Bunny Waitress)": "daofeng_4",
     "Le Malin (Listless Lapin)": "edu_4",
