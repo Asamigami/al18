@@ -1,4 +1,11 @@
 ﻿var charData = {
+    "La Galissonnière (Black Cat of All Hallows' Eve)": "jialisuoniye_3",
+    "Cheshire (The Cat and the White Steed)": "chaijun_4",
+    "Shimakaze (World's Speediest Bunny Waitress)": "daofeng_4",
+    "Le Malin (Listless Lapin)": "edu_4",
+    "Abercrombie (Mischief on the Rocks)": "abeikelongbi_3",
+    "North Carolina (The Heart's Desire)": "beikaluolaina_2",
+    "Reno (Reno Bunnino)": "linuo_3",
     "Weser (Urbane Onyx)": "weixi_2",
     "Allen M. Sumner (Charming Rabbit)": "ailunsamuna_2",
     "Boise (Sheepish Sapphire!)": "boyixi_2",
