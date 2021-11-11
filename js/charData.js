@@ -1,4 +1,6 @@
 ﻿var charData = {
+    "Prinz Eugen (Final Lap)": "ougen_5",
+    "Enterprise (Wind Catcher)": "qiye_7",
     "La Galissonnière (Black Cat of All Hallows' Eve)": "jialisuoniye_3",
     "Cheshire (The Cat and the White Steed)": "chaijun_4",
     "Shimakaze (World's Speediest Bunny Waitress)": "daofeng_4",
