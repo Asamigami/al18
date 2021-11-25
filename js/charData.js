@@ -1,4 +1,5 @@
 ﻿var charData = {
+    "Bremerton (Day-Off Date)": "bulaimodun_2",
     "Prinz Eugen (Final Lap)": "ougen_5",
     "Enterprise (Wind Catcher)": "qiye_7",
     "La Galissonnière (Black Cat of All Hallows' Eve)": "jialisuoniye_3",
