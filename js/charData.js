@@ -1,4 +1,8 @@
 ﻿var charData = {
+    "Ulrich von Hitten (Mayhem Maid)": "wuerlixi_2",
+    "Prinz Adalbert (After-Hours Service)": "adaerbote_2",
+    "Queen Elizabeth (Yes, Your Maidness!)": "yilishabai_6",
+    "Suruga (Uneventful Holiday Greetings)": "junhe_4",
     "Bremerton (Day-Off Date)": "bulaimodun_2",
     "Prinz Eugen (Final Lap)": "ougen_5",
     "Enterprise (Wind Catcher)": "qiye_7",
