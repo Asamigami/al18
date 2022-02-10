@@ -1,5 +1,7 @@
 ﻿var charData = {
-    "Ulrich von Hitten (Mayhem Maid)": "wuerlixi_2",
+    "Akagi (Down-Phoenix's Summons)": "chicheng_5",
+    "Charybdis (Red Chamber of Healing)": "kalvbudisi_2",
+    "Ulrich von Hutten (Mayhem Maid)": "wuerlixi_2",
     "Prinz Adalbert (After-Hours Service)": "adaerbote_2",
     "Queen Elizabeth (Yes, Your Maidness!)": "yilishabai_6",
     "Suruga (Uneventful Holiday Greetings)": "junhe_4",
