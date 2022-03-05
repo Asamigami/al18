@@ -1,4 +1,7 @@
 ﻿var charData = {
+    "Grozny (Shadowy Syndicate Showdown)": "weiyan_4",
+    "Kronshtadt (Begin the Rush!)": "kalangshitade_2",
+    "Kirov (Drifting Justice)": "jiluofu_3",
     "Akagi (Down-Phoenix's Summons)": "chicheng_5",
     "Charybdis (Red Chamber of Healing)": "kalvbudisi_2",
     "Ulrich von Hutten (Mayhem Maid)": "wuerlixi_2",
