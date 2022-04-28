@@ -1,4 +1,6 @@
-﻿var charData = {
+var charData = {
+    "Emden (White-Black Partita)": "aimudeng_2",
+    "Lützow (Everlasting Blood Banquet)": "lvzuofu_2",
     "Grozny (Shadowy Syndicate Showdown)": "weiyan_4",
     "Kronshtadt (Begin the Rush!)": "kalangshitade_2",
     "Kirov (Drifting Justice)": "jiluofu_3",
