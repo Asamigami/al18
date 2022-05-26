@@ -1,4 +1,7 @@
 var charData = {
+    "Vanguard (Half-Hearted Masquerade)": "qianwei_2",
+    "Ägir (Iron Blood's Dragon Maid)": "aijier_2",
+    "Prinz Eugen (Kindred Evening Spirits)": "ougen_6",
     "Emden (White-Black Partita)": "aimudeng_2",
     "Lützow (Everlasting Blood Banquet)": "lvzuofu_2",
     "Grozny (Shadowy Syndicate Showdown)": "weiyan_4",
