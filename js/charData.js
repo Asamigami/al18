@@ -1,4 +1,5 @@
 var charData = {
+    "Roon (Viridescent Lullaby)": "luoen_4",
     "Vanguard (Half-Hearted Masquerade)": "qianwei_2",
     "Ägir (Iron Blood's Dragon Maid)": "aijier_2",
     "Prinz Eugen (Kindred Evening Spirits)": "ougen_6",

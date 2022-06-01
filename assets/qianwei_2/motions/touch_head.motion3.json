@@ -5,8 +5,8 @@
     "Fps": 60.0,
     "Loop": true,
     "CurveCount": 234,
-    "TotalSegmentCount": 609,
-    "TotalPointCount": 829,
+    "TotalSegmentCount": 610,
+    "TotalPointCount": 830,
     "UserDataCount": 3,
     "TotalUserDataSize": 0
   },
@@ -450,6 +450,20 @@
         0,
         4.667,
         0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "Segments": [
+        0,
+        0.2,
+        0,
+        2.983,
+        0.387,
+        0,
+        4.667,
+        0.2
       ]
     },
     {
@@ -2957,17 +2971,6 @@
         0,
         4.667,
         0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamMouthForm",
-      "Segments": [
-        0,
-        0.2,
-        0,
-        4.667,
-        0.2
       ]
     },
     {

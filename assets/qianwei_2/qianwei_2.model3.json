@@ -15,6 +15,9 @@
           "File": "motions/mail.motion3.json"
         },
         {
+          "File": "motions/touch_drag.motion3.json"
+        },
+        {
           "File": "motions/mission_complete.motion3.json"
         },
         {
