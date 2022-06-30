@@ -1,4 +1,5 @@
 var charData = {
+    "Shimakaze (The White Rabbit of Wonderland)": "daofeng_5",
     "Roon (Viridescent Lullaby)": "luoen_4",
     "Vanguard (Half-Hearted Masquerade)": "qianwei_2",
     "Ägir (Iron Blood's Dragon Maid)": "aijier_2",
