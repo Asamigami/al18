@@ -1,4 +1,6 @@
 var charData = {
+    "Taihou (Sweet Time After School)": "dafeng_3",
+    "Roma (White Heron of Darkest Night)": "luoma_2",
     "Shimakaze (The White Rabbit of Wonderland)": "daofeng_5",
     "Roon (Viridescent Lullaby)": "luoen_4",
     "Vanguard (Half-Hearted Masquerade)": "qianwei_2",
