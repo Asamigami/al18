@@ -1,4 +1,5 @@
 var charData = {
+    "Sakawa (The colors of Love)": "jiuyun_2",
     "Taihou (Sweet Time After School)": "dafeng_3",
     "Roma (White Heron of Darkest Night)": "luoma_2",
     "Shimakaze (The White Rabbit of Wonderland)": "daofeng_5",
