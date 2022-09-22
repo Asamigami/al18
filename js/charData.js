@@ -1,4 +1,5 @@
 var charData = {
+    "Kashino (Maid for Mayhem)": "jianye_3",
     "Sakawa (The colors of Love)": "jiuyun_2",
     "Taihou (Sweet Time After School)": "dafeng_3",
     "Roma (White Heron of Darkest Night)": "luoma_2",
