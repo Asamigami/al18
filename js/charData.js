@@ -1,4 +1,6 @@
 var charData = {
+    "Shinano (Moonlit Chrome)": "xinnong_3",
+    "Baltimore (Finish Line Flagbearer)": "baerdimo_6",
     "Kashino (Maid for Mayhem)": "jianye_3",
     "Sakawa (The colors of Love)": "jiuyun_2",
     "Taihou (Sweet Time After School)": "dafeng_3",
