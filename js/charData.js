@@ -1,4 +1,5 @@
 var charData = {
+    "Janus (Fright-Night Scaredy-Cat)": "yanusi_3",
     "Shinano (Moonlit Chrome)": "xinnong_3",
     "Baltimore (Finish Line Flagbearer)": "baerdimo_6",
     "Kashino (Maid for Mayhem)": "jianye_3",
