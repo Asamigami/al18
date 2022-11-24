@@ -1,4 +1,5 @@
 var charData = {
+    "Bremerton (Relaxation Consultation)": "bulaimodun_5",
     "Janus (Fright-Night Scaredy-Cat)": "yanusi_3",
     "Shinano (Moonlit Chrome)": "xinnong_3",
     "Baltimore (Finish Line Flagbearer)": "baerdimo_6",
@@ -9,7 +10,7 @@ var charData = {
     "Shimakaze (The White Rabbit of Wonderland)": "daofeng_5",
     "Roon (Viridescent Lullaby)": "luoen_4",
     "Vanguard (Half-Hearted Masquerade)": "qianwei_2",
-    "Ägir (Iron Blood's Dragon Maid)": "aijier_2",
+    "Aegir (Iron Blood's Dragon Maid)": "aijier_2",
     "Prinz Eugen (Kindred Evening Spirits)": "ougen_6",
     "Emden (White-Black Partita)": "aimudeng_2",
     "Lützow (Everlasting Blood Banquet)": "lvzuofu_2",
