@@ -1,4 +1,8 @@
 var charData = {
+    "Northampton II (Swimming Star)": "beianpudunII_2",
+    "Prinz Heinrich (Rabbit on Watch)": "haiyinlixi_2",
+    "Brest (Marine Muse)": "buleisite_2",
+    "Noshiro (Unwinding in the Sunshine)": "nengdai_3",
     "Bremerton (Relaxation Consultation)": "bulaimodun_5",
     "Janus (Fright-Night Scaredy-Cat)": "yanusi_3",
     "Shinano (Moonlit Chrome)": "xinnong_3",
