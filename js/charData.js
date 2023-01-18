@@ -1,4 +1,8 @@
 var charData = {
+    "Chao Ho (Frolicking Flowers, Verse II)": "zhaohe_3",
+    "Ying Swei (Frolicking Flowers, Verse I)": "yingrui_3",
+    "Prinz Rupprecht (The Gate Dragon's Advent)": "lupuleixite_2",
+    "Ägir (Golden Dragon Among Auspicious Clouds)": "aijier_3",
     "Northampton II (Swimming Star)": "beianpudunII_2",
     "Prinz Heinrich (Rabbit on Watch)": "haiyinlixi_2",
     "Brest (Marine Muse)": "buleisite_2",
