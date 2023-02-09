@@ -1,4 +1,5 @@
 var charData = {
+    "Elbe (Pure-Hearted Bad Girl)": "yibei_3",
     "Chao Ho (Frolicking Flowers, Verse II)": "zhaohe_3",
     "Ying Swei (Frolicking Flowers, Verse I)": "yingrui_3",
     "Prinz Rupprecht (The Gate Dragon's Advent)": "lupuleixite_2",

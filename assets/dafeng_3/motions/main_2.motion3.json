@@ -4,9 +4,9 @@
     "Duration": 9.333,
     "Fps": 30.0,
     "Loop": true,
-    "CurveCount": 295,
-    "TotalSegmentCount": 2098,
-    "TotalPointCount": 2438,
+    "CurveCount": 297,
+    "TotalSegmentCount": 2100,
+    "TotalPointCount": 2440,
     "UserDataCount": 3,
     "TotalUserDataSize": 0
   },
@@ -7375,6 +7375,28 @@
     },
     {
       "Target": "Parameter",
+      "Id": "touch_drag1",
+      "Segments": [
+        0,
+        0,
+        0,
+        9.333,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "touch_drag2",
+      "Segments": [
+        0,
+        0,
+        0,
+        9.333,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
       "Id": "jiezhigg",
       "Segments": [
         0,
@@ -7398,6 +7420,17 @@
     {
       "Target": "Parameter",
       "Id": "xianzhikuan",
+      "Segments": [
+        0,
+        0,
+        0,
+        9.333,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "dengrhk",
       "Segments": [
         0,
         0,
@@ -8482,17 +8515,6 @@
         0,
         9.333,
         0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamZHHH",
-      "Segments": [
-        0,
-        -30,
-        0,
-        9.333,
-        -30
       ]
     },
     {
