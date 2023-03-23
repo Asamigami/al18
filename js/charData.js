@@ -1,4 +1,6 @@
 var charData = {
+    "Grozny (Bunny in the Banya)": "weiyan_6",
+    "Kursk (Lone Wolf Amid the Steam)": "kuersike_2",
     "Elbe (Pure-Hearted Bad Girl)": "yibei_3",
     "Chao Ho (Frolicking Flowers, Verse II)": "zhaohe_3",
     "Ying Swei (Frolicking Flowers, Verse I)": "yingrui_3",
