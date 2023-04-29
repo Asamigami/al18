@@ -1,4 +1,5 @@
 var charData = {
+    "Marie Rose (Steamy Venus)": "maliluosi_3_doa",
     "Grozny (Bunny in the Banya)": "weiyan_6",
     "Kursk (Lone Wolf Amid the Steam)": "kuersike_2",
     "Elbe (Pure-Hearted Bad Girl)": "yibei_3",
