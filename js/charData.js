@@ -1,4 +1,8 @@
 var charData = {
+    "Taihou (Seaside Daydreams)": "dafeng_6",
+    "Anchorage (Dolphins and Swim Lessons)": "ankeleiqi_2",
+    "Regensburg (Dark Dragon, Brilliant Beach)": "leigensibao_2",
+    "New Jersey (Midsummer Leisure)": "xinzexi_3",
     "Marie Rose (Steamy Venus)": "maliluosi_3_doa",
     "Grozny (Bunny in the Banya)": "weiyan_6",
     "Kursk (Lone Wolf Amid the Steam)": "kuersike_2",
