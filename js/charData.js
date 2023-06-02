@@ -1,4 +1,5 @@
 var charData = {
+    "Amagi (Red Kite Respite)": "tiancheng_3",
     "Taihou (Seaside Daydreams)": "dafeng_6",
     "Anchorage (Dolphins and Swim Lessons)": "ankeleiqi_2",
     "Regensburg (Dark Dragon, Brilliant Beach)": "leigensibao_2",
