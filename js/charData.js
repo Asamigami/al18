@@ -1,4 +1,8 @@
 var charData = {
+    "Clemenceau (Splendid Breeze)": "kelaimengsuo_2",
+    "Enterprise (Diving Under Blue Yorktown Skies)": "qiye_9",
+    "Helena (Shimmering Triangle Wave)": "hailunna_4",
+    "Gorizia (Unrequited Office Love?)": "geliqiya_2",
     "Amagi (Red Kite Respite)": "tiancheng_3",
     "Taihou (Seaside Daydreams)": "dafeng_6",
     "Anchorage (Dolphins and Swim Lessons)": "ankeleiqi_2",
