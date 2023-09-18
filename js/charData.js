@@ -1,4 +1,7 @@
 var charData = {
+    "Kashino (Robust Floral Strings)": "jianye_4",
+    "Hakuryuu (Flash of Silk and Strings)": "bailong_3",
+    "Hatsuzuki (August's First Romance)": "chuyue_2",
     "Clemenceau (Splendid Breeze)": "kelaimengsuo_2",
     "Enterprise (Diving Under Blue Yorktown Skies)": "qiye_9",
     "Helena (Shimmering Triangle Wave)": "hailunna_4",
