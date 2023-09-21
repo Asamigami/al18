@@ -1,4 +1,6 @@
 var charData = {
+    "Unzen (Sojourn Through Clear Seas)": "yunxian_2",
+    "Shinano (Dreamy White Sands)": "xinnong_4",
     "Kashino (Robust Floral Strings)": "jianye_4",
     "Hakuryuu (Flash of Silk and Strings)": "bailong_3",
     "Hatsuzuki (August's First Romance)": "chuyue_2",
